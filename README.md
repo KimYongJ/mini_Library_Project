@@ -1,6 +1,6 @@
 # mini_Library_Project
 미니 도서관 프로젝트
-[ 코드작성 내용 ]
+[ 코드작성 내용 간단 설명 ]
 1)	전체적인 기능들을 설계하고 패키지를 뷰, util, 서비스, 모델, exception, dao, 
 	컨트롤로 나눈다. 
 2) 
@@ -16,8 +16,8 @@
 		그리고 changeFlag함수를 실행해 book테이블의 수량을 하나 뺀다.(changeFlag함수)
 
 
-[ 파일 실행시 주의 사항 ]
-1) sql 자르파일 설정을 따로 해야한다.
+[ 주의 ]
+1) SQL 관련 자르파일 설정을 따로 해야한다.
 2) SQL과 연결되어 있기 때문에 SQL 테이블을 생성해야 한다.( SQL ID와 비번은 scott , tiger )
 USE `scott` ;
 // person 테이블
