@@ -16,7 +16,7 @@
 		그리고 changeFlag함수를 실행해 book테이블의 수량을 하나 뺀다.(changeFlag함수)
 
 
-[ 주의 ]
+[ 실행전 ]
 1) SQL 관련 자르파일 설정을 따로 해야한다.
 2) SQL과 연결되어 있기 때문에 SQL 테이블을 생성해야 한다.( SQL ID와 비번은 scott , tiger )
 USE `scott` ;
